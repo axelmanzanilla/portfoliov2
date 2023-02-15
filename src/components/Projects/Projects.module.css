@@ -1,0 +1,14 @@
+.projects {
+    margin: 100px 0;
+}
+.title {
+    text-align: center;
+}
+
+.project-list{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}

@@ -1,0 +1,17 @@
+.skills {
+}
+
+.title {
+    text-align: center;
+    margin: 12px 0;
+    padding: 0;
+}
+
+.skill-list{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}

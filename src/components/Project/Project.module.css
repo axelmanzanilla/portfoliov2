@@ -1,0 +1,15 @@
+.project {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    border: 1px solid whitesmoke;
+    background-color: black;
+    z-index: 11;
+}
+
+.project .link {
+    text-decoration: none;
+    color: white;
+}
